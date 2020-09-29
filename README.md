@@ -1,5 +1,13 @@
 # diablo3
 
+## App Live Demo
+```
+👉 https://diablo3-profile.netlify.app/
+
+> - User: `SuperRambo#2613`
+> - Region: `EU`
+```
+
 ## Project setup
 ```
 npm install
